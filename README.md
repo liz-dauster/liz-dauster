@@ -8,12 +8,13 @@ I’m an applied data scientist with a background in QC and lab operations, focu
 - Operational metrics, capacity, and efficiency analysis  
 - Data visualization and decision-support dashboards
 
-### 📊 Featured project
-**Automation Impact – QC Lab Operations**  
-A multi-dashboard Tableau case study evaluating the operational impact of a QC software rollout across executive, implementation, and analyst perspectives.
+### 📊 Featured Project
+**Automation Impact — QC Lab Operations**  
+Applied data science case study evaluating the operational impact of QC lab automation across executive, implementation, and lab operations perspectives.
 
-➡️ [View on Tableau Public](https://public.tableau.com/views/AutomationImpact-QCLabOperations/AutomationImpact?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-➡️ [Project README](LINK_TO_REPO_IF_APPLICABLE)
+🔗 [View the project repo](https://github.com/liz-dauster/automation-impact-qc-lab)  
+🔗 [View the interactive Tableau Story](https://public.tableau.com/views/AutomationImpact-QCLabOperations/AutomationImpact?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 📊 Featured project
 
 ### 🛠 Tools
 Python • SQL • R • Tableau • pandas • NumPy
