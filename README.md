@@ -12,7 +12,7 @@ I’m an applied data scientist with a background in QC and lab operations, focu
 **Automation Impact – QC Lab Operations**  
 A multi-dashboard Tableau case study evaluating the operational impact of a QC software rollout across executive, implementation, and analyst perspectives.
 
-➡️ [View on Tableau Public](YOUR_TABLEAU_LINK)  
+➡️ [View on Tableau Public](https://public.tableau.com/views/AutomationImpact-QCLabOperations/AutomationImpact?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ➡️ [Project README](LINK_TO_REPO_IF_APPLICABLE)
 
 ### 🛠 Tools
