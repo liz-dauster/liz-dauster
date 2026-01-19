@@ -14,10 +14,9 @@ Applied data science case study evaluating the operational impact of QC lab auto
 
 🔗 [View the project repo](https://github.com/liz-dauster/automation-impact-qc-lab)  
 🔗 [View the interactive Tableau Story](https://public.tableau.com/views/AutomationImpact-QCLabOperations/AutomationImpact?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-### 📊 Featured project
 
 ### 🛠 Tools
-Python • SQL • R • Tableau • pandas • NumPy
+Python • SQL • R • Tableau • pandas • scikit-learn
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/liz-dauster 
