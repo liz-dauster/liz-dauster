@@ -21,4 +21,4 @@ Python • SQL • R • Tableau • pandas • NumPy
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/liz-dauster 
-- Tableau Public: https://public.tableau.com/app/profile/elizabeth.dauster/vizzes
+- Tableau Public: https://public.tableau.com/app/profile/lizdauster/vizzes
