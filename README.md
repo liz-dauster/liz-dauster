@@ -1,22 +1,31 @@
-## Hi, I’m Liz 👋
+# Liz Dauster  
+Applied Data Science | Operational Systems Modeling
 
-I’m an applied data scientist with a background in QC and lab operations, focused on using data to evaluate automation, improve workflows, and support operational decision-making.
+I build interpretable models and decision frameworks for operational environments under constraint.
 
-### 🔍 What I work on
-- Applied data science in scientific and technical domains  
-- Automation impact and workflow analytics  
-- Operational metrics, capacity, and efficiency analysis  
-- Data visualization and decision-support dashboards
+---
 
-### 📊 Featured Project
-**Automation Impact — QC Lab Operations**  
-Applied data science case study evaluating the operational impact of QC lab automation across executive, implementation, and lab operations perspectives.
+## QC Workflow Automation – End-to-End Case Study
 
-🔗 [View the project repo](https://github.com/liz-dauster/automation-impact-qc-lab)  
-🔗 [View the interactive Tableau Story](https://public.tableau.com/views/AutomationImpact-QCLabOperations/AutomationImpact?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Integrated systems and data science analysis of workflow automation in a regulated QC laboratory using simulated operational data.
 
-### 🛠 Tools
-Python • SQL • R • Tableau • pandas • scikit-learn
+**Components:**
+
+- Systems analysis brief (causal and structural framing)
+- Executive Tableau dashboards (throughput, utilization, cycle time)
+- Downtime risk modeling notebook (leakage-aware aggregation, nonlinear regime detection)
+
+🔗 Repository:  
+https://github.com/liz-dauster/automation-impact-qc-lab
+
+---
+
+## Methods & Tools
+
+Python (Pandas, Scikit-learn)  
+Tableau  
+Causal modeling  
+Decision analysis under uncertainty
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/liz-dauster 
