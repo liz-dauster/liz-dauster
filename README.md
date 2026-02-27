@@ -26,7 +26,3 @@ Python (Pandas, Scikit-learn)
 Tableau  
 Causal modeling  
 Decision analysis under uncertainty
-
-### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/liz-dauster 
-- Tableau Public: https://public.tableau.com/app/profile/lizdauster/vizzes
