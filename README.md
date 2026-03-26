@@ -1,5 +1,5 @@
 # Liz Dauster  
-Applied Data Science | Operational Analytics & Systems Modeling
+Applied Data Science | Systems Modeling & Data Quality
 
 I build interpretable models and decision frameworks for operational environments under constraint—turning throughput, variability, and capacity signals into routing and prioritization decisions.
 
